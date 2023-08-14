@@ -22,6 +22,11 @@ In this version the previous minter gets a second NFT when the next collector mi
 ![Noise of Anarchy](https://openseauserdata.com/files/605a4e0c260d53ef4f497e00437310fb.svg)
 ![Shape of Anarchy](https://openseauserdata.com/files/1012005281b262e89fb29eb6ccd31512.svg)
 
+## Secondary Market
+
+[Sansa](https://sansa.xyz/collections/644916b6407463759eeaf86c)
+[OpenSea Polygon](https://opensea.io/collection/we-are-anarchy-on-chain-polygon)
+
 ## License
 
 Copyright Bard Ionson LLC
